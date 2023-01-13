@@ -9,7 +9,7 @@ class Solution {
                 else square(height[j],Math.abs(i-j) );
             }
         }
-        return maxSquare;
+        return maxSquare ;
     }
 
     public void square(int x, int y) {
